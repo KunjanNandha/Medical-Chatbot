@@ -1,4 +1,4 @@
-# Medical Chatbot (NLP-Project)
+# Medical Chatbot
 
 A Streamlit-based Medical Chatbot that uses an LLM connected with a memory/vector store to provide information and assistance based on provided medical data.
 
