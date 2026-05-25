@@ -1,4 +1,3 @@
-cd "E:\Projects\Medical Chatbot"
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
